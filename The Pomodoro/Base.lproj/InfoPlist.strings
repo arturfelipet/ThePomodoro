@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  The Pomodoro
+ 
+  Created by Artur Felipe on 12/3/16.
+  Copyright © 2016 Artur Felipe. All rights reserved.
+
+*/
+
+CFBundleDisplayName = "The Pomodoro";
+//CFBundleShortVersionString = "The Pomodoro version 1.0";
+CFBundleGetInfoString = "The Pomodoro version 1.0, Copyright © 2016 Own.";
+NSHumanReadableCopyright = "Copyright © 2014. \nArtur Felipe";

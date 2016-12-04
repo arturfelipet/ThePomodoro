@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  The Pomodoro
+ 
+  Created by Artur Felipe on 12/3/16.
+  Copyright © 2016 Artur Felipe. All rights reserved.
+ 
+ */
+
+/*-------------------Push Notification-------------------*/
+"LOCAL_PUSH_MESSAGE" = "Hey, you have %lu unread news waiting for you!";
+"LOCAL_PUSH_MESSAGE_DAILY" = "Hey, you still have unread news waiting for you, come check it out!";
+"LOCAL_PUSH_MESSAGE_LONG_TIME" = "Hey, its been a long time since we last saw you, come create a search and recieve news from the whole planet!";
+/*-------------------------------------------------------*/
+
+

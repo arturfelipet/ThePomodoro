@@ -1,0 +1,25 @@
+/*
+  Localizable.strings
+  The Pomodoro
+ 
+  Created by Artur Felipe on 12/3/16.
+  Copyright © 2016 Artur Felipe. All rights reserved.
+ 
+ */
+
+/*-------------------Push Notification-------------------*/
+"LOCAL_PUSH_MESSAGE" = "Seu pomodoro terminou";
+/*-------------------------------------------------------*/
+
+
+/*-------------------------Timer-------------------------*/
+"TIMER_BUTTON_START" = "Começar";
+"TIMER_BUTTON_STOP" = "Parar";
+/*-------------------------------------------------------*/
+
+/*------------------------History------------------------*/
+"STATE_FINISHED" = "Terminado";
+"STATE_STOPPED" = "Interrompido";
+"DATE_TODAY" = "HOJE";
+"DATE_YESTERDAy" = "ONTEM";
+/*-------------------------------------------------------*/
