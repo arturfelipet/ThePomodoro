@@ -1,1 +1,1 @@
-# ThePomodoro
+A simple Pomodoro app for iOS with history.
